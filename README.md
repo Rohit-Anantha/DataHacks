@@ -1,7 +1,5 @@
-Data Hacks
+# DataHack2022
+The official repository for the dataset and starter code for DataHack 2022
 
-Authors: Rohit Anantha, Jessica Ouyang, Anushka Shah, Dhruv Arora
-
-Goal: $2000 cash prize
-
-Project Ideas: Natural Language Processing
+Remember to join our discord for updates!
+https://discord.gg/yHUGnrZE
